@@ -1,0 +1,31 @@
+
+body{
+    display: grid;
+    place-items: center;
+    height: 100vh;
+    font-family: "Outfit", Verdana, Geneva, Tahoma, sans-serif;
+    background-color: hsl(212, 45%, 89%);
+}
+
+.box{
+width: 320px;
+padding: 20px;
+background-color: white;
+border-radius: 15px;
+
+}
+
+img{
+    width: 100%;
+    border-radius: 10px;
+}
+
+h2{
+    text-align: center;
+    color: hsl(218, 44%, 22%);
+}
+
+p{
+    color: hsl(220, 15%, 55%);
+    text-align: center;
+}
